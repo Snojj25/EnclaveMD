@@ -3,4 +3,4 @@
 
 ## Architecture
 
-![EnclaveMD Architecture](./architecture-enclavemd.jpg)
+![EnclaveMD Architecture](./media/architecture-enclavemd.jpg)
